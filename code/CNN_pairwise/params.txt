@@ -1,0 +1,13 @@
+_filter_sizes = [1, 2, 3]
+_num_filters = [100, 100, 100]
+
+dropout(keep_prob) 0.75
+batch_size 128
+vocab_size 60000
+Adam Optimizer 0.001 learning rate
+l2_loss_lambda 0.01
+
+问题保留前40词
+回答保留前50词（超出截取到50词）
+
+
