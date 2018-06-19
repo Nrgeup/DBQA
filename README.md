@@ -5,7 +5,7 @@
 
 This task is mainly based on the NLPCC 2017 DBQA task. Given a question and its corresponding documentation, Build a DBQA system to select one or more sentences from the document as a suitable answer.
 
-## Motholds
+## Mothods
 
 In this project, we have implemented two models:
 
