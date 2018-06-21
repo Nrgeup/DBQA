@@ -13,7 +13,7 @@ In this project, we have implemented two models:
 
 ![cnn](./pic/cnn.png)
 
-2. The first is a pairwise model which based on the RNN representation, combining position and overlap information (RNN_pairwise):
+2. The second is a pairwise model which based on the RNN representation, combining position and overlap information (RNN_pairwise):
 
 ![rnn](./pic/rnn.png)
 
