@@ -3,11 +3,11 @@
 
 ## Introduction
 
-This task is mainly based on the NLPCC 2017 DBQA task. Given a question and its corresponding documentation, Build a DBQA system to select one or more sentences from the document as a suitable answer.
+This task is mainly based on the DQQA task of NLPCC 2017. Given a question and its corresponding document, a DBQA system is built to select one or more sentences from the document as the appropriate answer.
 
 ## Mothods
 
-In this project, we have implemented two models:
+In this project, we implemented two models:
 
 1. The first is a pairwise model which based on the CNN representation (CNN_pairwise):
 
@@ -20,4 +20,4 @@ In this project, we have implemented two models:
 ## Results
 
 
-We ensemble results of two models(just averaging), ranking 3-th among the 18 submission of our class.
+We ensemble results of two models(just averaging), ranking 3-rd among the 18 submission of our class.
